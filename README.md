@@ -1,6 +1,6 @@
  # fizzbuzz
 
- TDD and Pair Programming over FizzBuzz
+ TDD and Pair Programming over FizzBuzz excercise
 
  ## Running tests
 
